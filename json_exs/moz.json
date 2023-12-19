@@ -1,0 +1,77 @@
+{"common":[
+  {"food_name":"mozzarella cheese",
+  "serving_unit":"oz",
+  "tag_name":"mozzarella",
+  "serving_qty":1,
+  "common_type":null,
+  "tag_id":"690","photo":{"thumb":"https://nix-tag-images.s3.amazonaws.com/690_thumb.jpg"},
+  "locale":"en_US"},
+
+  {"food_name":"mozarella ball",
+    "serving_unit":"oz",
+    "tag_name":"mozzarella",
+    "serving_qty":1,
+    "common_type":null,
+    "tag_id":"690",
+    "photo":{"thumb":"https://nix-tag-images.s3.amazonaws.com/690_thumb.jpg"},
+    "locale":"en_US"},
+
+  {"food_name":"grilled cheese",
+    "serving_unit":"sandwich",
+    "tag_name":"grilled cheese",
+    "serving_qty":1,
+    "common_type":null,
+    "tag_id":"1763",
+    "photo":{"thumb":"https://nix-tag-images.s3.amazonaws.com/1763_thumb.jpg"},
+    "locale":"en_US"},
+
+  {"food_name":"cottage cheese",
+    "serving_unit":"cup",
+    "tag_name":"cottage cheese",
+    "serving_qty":0.5,
+    "common_type":null,
+    "tag_id":"510",
+    "photo":{"thumb":"https://nix-tag-images.s3.amazonaws.com/510_thumb.jpg"},
+    "locale":"en_US"},
+
+  {"food_name":"feta cheese",
+    "serving_unit":"oz",
+    "tag_name":"feta",
+    "serving_qty":1,
+    "common_type":null,
+    "tag_id":"551",
+    "photo":{"thumb":"https://nix-tag-images.s3.amazonaws.com/551_thumb.jpg"},
+    "locale":"en_US"},
+
+  {"food_name":"goat cheese",
+    "serving_unit":"oz","tag_name":"goat cheese","serving_qty":1,"common_type":null,"tag_id":"584","photo":{"thumb":"https://nix-tag-images.s3.amazonaws.com/584_thumb.jpg"},"locale":"en_US"},
+
+  {"food_name":"parmesan cheese","serving_unit":"tbsp","tag_name":"grated parmesan","serving_qty":1,"common_type":null,"tag_id":"594","photo":{"thumb":"https://nix-tag-images.s3.amazonaws.com/594_thumb.jpg"},"locale":"en_US"},
+
+  {"food_name":"cream cheese","serving_unit":"tbsp","tag_name":"cream cheese","serving_qty":2,"common_type":null,"tag_id":"514","photo":{"thumb":"https://nix-tag-images.s3.amazonaws.com/514_thumb.jpg"},"locale":"en_US"},
+
+  {"food_name":"sliced cheese","serving_unit":"slice (1 oz)","tag_name":"cheese","serving_qty":1,"common_type":null,"tag_id":"1034","photo":{"thumb":"https://nix-tag-images.s3.amazonaws.com/1034_thumb.jpg"},"locale":"en_US"},
+
+  {"food_name":"cheddar cheese","serving_unit":"oz","tag_name":"cheddar","serving_qty":1,"common_type":null,"tag_id":"458","photo":{"thumb":"https://nix-tag-images.s3.amazonaws.com/458_thumb.jpg"},"locale":"en_US"},
+
+  {"food_name":"american cheese","serving_unit":"slice (3/4 oz)","tag_name":"american cheese","serving_qty":1,"common_type":null,"tag_id":"382","photo":{"thumb":"https://nix-tag-images.s3.amazonaws.com/382_thumb.jpg"},"locale":"en_US"},
+
+  {"food_name":"blue cheese","serving_unit":"oz","tag_name":"bleu cheese","serving_qty":1,"common_type":null,"tag_id":"422","photo":{"thumb":"https://nix-tag-images.s3.amazonaws.com/422_thumb.jpg"},"locale":"en_US"},
+
+  {"food_name":"shredded cheese","serving_unit":"cup","tag_name":"shredded cheddar cheese","serving_qty":0.25,"common_type":null,"tag_id":"5311","photo":{"thumb":"https://nix-tag-images.s3.amazonaws.com/5311_thumb.jpg"},"locale":"en_US"},
+
+  {"food_name":"string cheese","serving_unit":"Stick","tag_name":"string cheese","serving_qty":1,"common_type":null,"tag_id":"1150","photo":{"thumb":"https://nix-tag-images.s3.amazonaws.com/1150_thumb.jpg"},"locale":"en_US"},
+
+  {"food_name":"swiss cheese","serving_unit":"cup, shredded","tag_name":"swiss","serving_qty":1,"common_type":null,"tag_id":"837","photo":{"thumb":"https://nix-tag-images.s3.amazonaws.com/837_thumb.jpg"},"locale":"en_US"},
+
+  {"food_name":"cheese","serving_unit":"slice (1 oz)","tag_name":"cheese","serving_qty":1,"common_type":null,"tag_id":"1034","photo":{"thumb":"https://nix-tag-images.s3.amazonaws.com/1034_thumb.jpg"},"locale":"en_US"},
+
+  {"food_name":"cheesecake","serving_unit":"piece (1 NLEA serving)","tag_name":"cheesecake","serving_qty":1,"common_type":null,"tag_id":"107","photo":{"thumb":"https://nix-tag-images.s3.amazonaws.com/107_thumb.jpg"},"locale":"en_US"},
+
+  {"food_name":"cheese stick","serving_unit":"Stick","tag_name":"Cheese stick","serving_qty":1,"common_type":null,"tag_id":"15080","photo":{"thumb":"https://nix-tag-images.s3.amazonaws.com/1150_thumb.jpg"},"locale":"en_US"},
+
+  {"food_name":"cheeseburger","serving_unit":"item","tag_name":"cheeseburger","serving_qty":1,"common_type":null,"tag_id":"445","photo":{"thumb":"https://nix-tag-images.s3.amazonaws.com/445_thumb.jpg"},"locale":"en_US"},{"food_name":"cheese pizza","serving_unit":"large slice","tag_name":"cheese pizza","serving_qty":1,"common_type":null,"tag_id":"68","photo":{"thumb":"https://nix-tag-images.s3.amazonaws.com/68_thumb.jpg"},"locale":"en_US"}],
+
+
+  "branded":[
+    {"food_name":"Shredded Cheese, Mozarella, Low Moisture","serving_unit":"cup","nix_brand_id":"51db37b7176fe9790a898a6b","brand_name_item_name":"Sargento Shredded Cheese, Mozarella, Low Moisture","serving_qty":0.25,"nf_calories":90,"photo":{"thumb":"https://assets.syndigo.com/897f824a-7e6a-421e-afe4-acaaee66c1a7"},"brand_name":"Sargento","region":1,"brand_type":2,"nix_item_id":"63527c697661d50008fffe69","locale":"en_US"},{"food_name":"Mozarella, Sliced Cheese","serving_unit":"slice","nix_brand_id":"5466486ab2eb3a3934d5e222","brand_name_item_name":"Tre Stelle Mozarella, Sliced Cheese","serving_qty":1,"nf_calories":60,"photo":{"thumb":"https://nutritionix-api.s3.amazonaws.com/5b6fddcdce5da00048e04a11.jpeg"},"brand_name":"Tre Stelle","region":1,"brand_type":2,"nix_item_id":"5b6fddcb1d700b3c72bc43e3","locale":"en_US"},{"food_name":"Low Mozarella Shredded Cheese","serving_unit":"cup","nix_brand_id":"54368f5c55c6b11b6b6e5da5","brand_name_item_name":"Coburn Farms Low Mozarella Shredded Cheese","serving_qty":0.25,"nf_calories":80,"photo":{"thumb":"https://nutritionix-api.s3.amazonaws.com/63ecbc279ac79f00080d1979.jpeg"},"brand_name":"Coburn Farms","region":1,"brand_type":2,"nix_item_id":"594f6059438b61fa29acd35f","locale":"en_US"},{"food_name":"String Cheese, Mozarella, Creamy","serving_unit":"stick","nix_brand_id":"51db37b4176fe9790a8987c4","brand_name_item_name":"Kraft String Cheese, Mozarella, Creamy","serving_qty":1,"nf_calories":90,"photo":{"thumb":"https://assets.syndigo.com/a1f49fa4-3dde-446c-bac3-ae7b596c1893"},"brand_name":"Kraft","region":1,"brand_type":2,"nix_item_id":"5c70f60e9e117b4015d84fdb","locale":"en_US"},{"food_name":"Light Mozarella Cheese","serving_unit":"slice","nix_brand_id":"51db37b5176fe9790a8988dd","brand_name_item_name":"Borden Light Mozarella Cheese","serving_qty":1,"nf_calories":40,"photo":{"thumb":"https://nutritionix-api.s3.amazonaws.com/5f13f453a9e4eeee2f22e187.jpeg"},"brand_name":"Borden","region":1,"brand_type":2,"nix_item_id":"5f13f450a9e4eeee2f22e186","locale":"en_US"},{"food_name":"Snacking Cheese, Fresh Mozarella","serving_unit":"oz.","nix_brand_id":"51db37b5176fe9790a8988be","brand_name_item_name":"BelGioioso Snacking Cheese, Fresh Mozarella","serving_qty":1,"nf_calories":70,"photo":{"thumb":"https://nutritionix-api.s3.amazonaws.com/60196397db64ac1d49673452.jpeg"},"brand_name":"BelGioioso","region":1,"brand_type":2,"nix_item_id":"601963947bb43c87650c6366","locale":"en_US"},{"food_name":"Cheese, Mozarella, Low Moisture, Whole Milk","serving_unit":"oz","nix_brand_id":"51db37b6176fe9790a89895f","brand_name_item_name":"Frigo Cheese, Mozarella, Low Moisture, Whole Milk","serving_qty":1,"nf_calories":90,"photo":{"thumb":"https://assets.syndigo.com/ea04bcf7-2988-46f7-b636-2d5c0a46b5fc"},"brand_name":"Frigo","region":1,"brand_type":2,"nix_item_id":"6538ccb2da733d0008b0944a","locale":"en_US"},{"food_name":"Fresh Mozarella Cheese","serving_unit":"oz","nix_brand_id":"5eb2657705c85b911e91deb4","brand_name_item_name":"The Cheese Guy Fresh Mozarella Cheese","serving_qty":1,"nf_calories":80,"photo":{"thumb":"https://nutritionix-api.s3.amazonaws.com/615daaa7bb598b0009b92a8c.jpeg"},"brand_name":"The Cheese Guy","region":1,"brand_type":2,"nix_item_id":"615daaa6bb598b0009b92a8b","locale":"en_US"},{"food_name":"Fresh Mozarella Bocconcini Cheese","serving_unit":"oz","nix_brand_id":"51db37b6176fe9790a898915","brand_name_item_name":"Crave Brothers Fresh Mozarella Bocconcini Cheese","serving_qty":1,"nf_calories":70,"photo":{"thumb":"https://nutritionix-api.s3.amazonaws.com/5fbe62a0f33d44ac40959400.jpeg"},"brand_name":"Crave Brothers","region":1,"brand_type":2,"nix_item_id":"5fbe629cfb65589f20770da8","locale":"en_US"},{"food_name":"All Natural Cheese, Mozarella","serving_unit":"cup","nix_brand_id":"51db37b0176fe9790a8983be","brand_name_item_name":"Wegmans All Natural Cheese, Mozarella","serving_qty":0.25,"nf_calories":90,"photo":{"thumb":"https://nutritionix-api.s3.amazonaws.com/54f7ea550574628e58d84099.jpeg"},"brand_name":"Wegmans","region":1,"brand_type":2,"nix_item_id":"54f7e9430574628e58d84055","locale":"en_US"},{"food_name":"String Whips Mozarella Cheese","serving_unit":"cup","nix_brand_id":"54a6c89bd9eab4484bcdb7b1","brand_name_item_name":"Burnett Dairy String Whips Mozarella Cheese","serving_qty":0.25,"nf_calories":90,"photo":{"thumb":"https://nutritionix-api.s3.amazonaws.com/5787084f41386bd63c31218f.jpeg"},"brand_name":"Burnett Dairy","region":1,"brand_type":2,"nix_item_id":"57870672a25ca53b5ecdf360","locale":"en_US"},{"food_name":"String Cheese, Reduced Fat, Mozarella","serving_unit":"stick","nix_brand_id":"5837e3a4837f2ece21e8bf69","brand_name_item_name":"Stater Bros. Markets String Cheese, Reduced Fat, Mozarella","serving_qty":1,"nf_calories":70,"photo":{"thumb":"https://assets.syndigo.com/e6d7b9d2-a967-4fae-a83f-25cc01dc4a05"},"brand_name":"Stater Bros. Markets","region":1,"brand_type":2,"nix_item_id":"60954839e7e6b8643cdbea84","locale":"en_US"},{"food_name":"Mozarella for Hero","serving_unit":"oz","nix_brand_id":"51cb34ae97c3e632be9f418c","brand_name_item_name":"Anthony's Pizza & Pasta Mozarella for Hero","serving_qty":2,"nf_calories":180,"photo":{"thumb":"https://d2eawub7utcl6.cloudfront.net/images/nix-apple-grey.png","highres":null,"is_user_uploaded":false},"brand_name":"Anthony's Pizza & Pasta","region":1,"brand_type":1,"nix_item_id":"bd9d9215a78be956b00afd02","locale":"en_US"},{"food_name":"Mozarella String Cheese - Pepperoni - Confetti Cake Bites Snacked!","serving_unit":"package","nix_brand_id":"51db37b3176fe9790a898640","brand_name_item_name":"Hillshire Farm Mozarella String Cheese - Pepperoni - Confetti Cake Bites Snacked!","serving_qty":1,"nf_calories":230,"photo":{"thumb":"https://nutritionix-api.s3.amazonaws.com/649eb6fc43b7db000ad13fbd.jpeg"},"brand_name":"Hillshire Farm","region":1,"brand_type":2,"nix_item_id":"649eb6fb43b7db000ad13fbc","locale":"en_US"},{"food_name":"Mozarella Piadine","serving_unit":"sandwich","nix_brand_id":"513fbc1283aa2dc80c00125e","brand_name_item_name":"Il Vicino Wood Oven Pizza Mozarella Piadine","serving_qty":1,"nf_calories":560,"photo":{"thumb":"https://d2eawub7utcl6.cloudfront.net/images/nix-apple-grey.png","highres":null,"is_user_uploaded":false},"brand_name":"Il Vicino Wood Oven Pizza","region":1,"brand_type":1,"nix_item_id":"513fc9cd673c4fbc26006d99","locale":"en_US"},{"food_name":"Sweet Pepper Mozarella Chicken Sausage","serving_unit":"sausage","nix_brand_id":"5480737e80f3a5212a291460","brand_name_item_name":"Clean Sweet Pepper Mozarella Chicken Sausage","serving_qty":1,"nf_calories":150,"photo":{"thumb":"https://nutritionix-api.s3.amazonaws.com/64f9b09fa5f657000664b619.jpeg"},"brand_name":"Clean","region":1,"brand_type":2,"nix_item_id":"64f9b09ea5f657000664b618","locale":"en_US"},{"food_name":"Mozarella Ciliegine","serving_unit":"ounce","nix_brand_id":"53e8bc6af76fb1ef4186bc0e","brand_name_item_name":"Angelo & Franco Mozarella Ciliegine","serving_qty":1,"nf_calories":80,"photo":{"thumb":"https://nutritionix-api.s3.amazonaws.com/5607040d6442593011ee8807.jpeg"},"brand_name":"Angelo & Franco","region":1,"brand_type":2,"nix_item_id":"5607064cc35d39aa208faaa4","locale":"en_US"},{"food_name":"Battered Mozarella Sticks","serving_unit":"pieces","nix_brand_id":"5460ebe7388fc43c2fa072f1","brand_name_item_name":"Sysco Battered Mozarella Sticks","serving_qty":3,"nf_calories":310,"photo":{"thumb":"https://nutritionix-api.s3.amazonaws.com/6468a90fa8c4d5000622f722.jpeg"},"brand_name":"Sysco","region":1,"brand_type":2,"nix_item_id":"6468a90fa8c4d5000622f721","locale":"en_US"},{"food_name":"Low Moisture Part Skim Mozarella","serving_unit":"cup","nix_brand_id":"545ce6d2d43cefdf6dbf8047","brand_name_item_name":"Wisconsin Premium Low Moisture Part Skim Mozarella","serving_qty":0.25,"nf_calories":80,"photo":{"thumb":"https://nutritionix-api.s3.amazonaws.com/5f47647761f9125540890246.jpeg"},"brand_name":"Wisconsin Premium","region":1,"brand_type":2,"nix_item_id":"5f476473e8bbf39620c97bd1","locale":"en_US"},{"food_name":"Le Gratine Pizza Mozarella","serving_unit":"cup","nix_brand_id":"60afa49f38316300065471a2","brand_name_item_name":"St. Guillaume Le Gratine Pizza Mozarella","serving_qty":0.33000001311302185,"nf_calories":80,"photo":{"thumb":"https://nutritionix-api.s3.amazonaws.com/60afa4a038316300065471a4.jpeg"},"brand_name":"St. Guillaume","region":1,"brand_type":2,"nix_item_id":"60afa49f38316300065471a3","locale":"en_US"}]}}

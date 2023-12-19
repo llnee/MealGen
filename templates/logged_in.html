@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<p>{% block body %}
+    Welcome {{ form_data['username'] }}.
+{% endblock %}</p>
+<p><!-- (A) SEARCH FORM -->
+<form  action="/results" method="post">
+  <input type="text" id="search" name="search" required>
+  <input type="submit" value="Search">
+</form>
+</p>
+
+{% endblock %}

@@ -1,0 +1,34 @@
+/* COLORS
+MediumSeaGreen
+DodgerBlue
+LightGray
+Violet
+*/
+
+body {
+  background-color: LightGray;
+  padding: 25px 50px; /* top/bottom are 25, left/right are 50 */
+  text-align: left;
+  font-family: "Monaco", "Lucida Console", monospace;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+  text-align: center;
+  font-family: "Monaco", "Lucida Console", monospace;
+}
+
+div {
+    background-color: LightBlue;
+    font-family: "Monaco", "Lucida Console", monospace;
+    width: 100%;
+    position: absolute;
+    bottom:0;
+}
+
+img {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
