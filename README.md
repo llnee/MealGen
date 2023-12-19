@@ -27,5 +27,6 @@ X_APP_KEY
 To deploy this project locally run
 
 ```bash
+  export FLASK_APP=app.py 
   flask run
 ```
