@@ -5,6 +5,8 @@ MealGen is a web application to provide tailored meal recommendations based on u
 
 This app is a work in progress meant to develop and showcase skills in Python, web development, Postgres, utilizing APIs, and creating ETL pipelines. Future work will be done to accomplish user authentication/authorization, scheduled data pulls via Apache Airflow, and recommendations.
 
+Feature(s) in progress: testing with Selenium, web scraping, and Python scripting. 
+
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file.
